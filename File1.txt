@@ -1,0 +1,7 @@
+Text file for git repo.
+
+Paneer
+Aloo 65
+Pasta
+Curd rice
+Biryani
